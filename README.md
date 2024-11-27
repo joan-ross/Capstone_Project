@@ -1,4 +1,4 @@
-# Cost of Living Project
+# Capstone Sidewalk Project
 Capstone project for the CodeYou: Data Analysis course.
 
 This project aims to analyze the state of sidewalks and pavement in Bloomington, IN circa 2018
