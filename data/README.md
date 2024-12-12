@@ -23,7 +23,7 @@ Quantity| float64| Unable to find what quantity refers to exactly.|
 Quantity Units| object| the measurement units of the quantity.|
 Severity| object| letter that classifies how bad the damage is.|
 
-# This table is a report that shows how they go about classifying and organizing pavement that needs work. It gives identifiers like the location and street name, how big of an area it covers, and what type of damage and how bad it is. This allows the users to keep track of what work needs to be done and where easier. 
+This table is a report that shows how they go about classifying and organizing pavement that needs work. It gives identifiers like the location and street name, how big of an area it covers, and what type of damage and how bad it is. This allows the users to keep track of what work needs to be done and where easier. 
 
 ## Sidewalk Condition Report
 
@@ -41,6 +41,6 @@ BACKIMAGE| object| link to image presumably of the sidewalk (error message when 
 VIEWER| object| link to place to view the sidewalk (error message when opened).|
 IntVIEWER| object|link to place to view the sidewalk (error message when opened).|
 
-# This table is a report of specifically sidewalks in need of repair. It also has identifiers such as a specific ID number and location of the damaged sidewalk to tell where it is. It also classifies which sidewalks are in need of repair the most and how long the sidewalks are. It's purpose is to make it easier for the user to keep track of which sidewalks are in need of repair.
+This table is a report of specifically sidewalks in need of repair. It also has identifiers such as a specific ID number and location of the damaged sidewalk to tell where it is. It also classifies which sidewalks are in need of repair the most and how long the sidewalks are. It's purpose is to make it easier for the user to keep track of which sidewalks are in need of repair.
 
-# Data and tables like this a relevant because they help with the upkeep of cities, ensuring that they remain walkable and accessible to the residents and people who visit the city.
+Data and tables like this a relevant because they help with the upkeep of cities, ensuring that they remain walkable and accessible to the residents and people who visit the city.
