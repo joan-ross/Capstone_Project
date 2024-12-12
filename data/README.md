@@ -45,5 +45,6 @@ This table is a report of specifically sidewalks in need of repair. It also has 
 
 Data and tables like this a relevant because they help with the upkeep of cities, ensuring that they remain walkable and accessible to the residents and people who visit the city.
 
-For view and explanation of cleaned data process visit `src\Clean_Data_Explanation.ipynb`
-For view and explanation of the raw data visit `src\Raw_Data_Explanation.ipynb`
+For view and explanation of cleaned data process visit `src\Clean_Data_Explanation.ipynb`.
+
+For view and explanation of the raw data visit `src\Raw_Data_Explanation.ipynb`.
