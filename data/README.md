@@ -44,3 +44,6 @@ IntVIEWER| object|link to place to view the sidewalk (error message when opened)
 This table is a report of specifically sidewalks in need of repair. It also has identifiers such as a specific ID number and location of the damaged sidewalk to tell where it is. It also classifies which sidewalks are in need of repair the most and how long the sidewalks are. It's purpose is to make it easier for the user to keep track of which sidewalks are in need of repair.
 
 Data and tables like this a relevant because they help with the upkeep of cities, ensuring that they remain walkable and accessible to the residents and people who visit the city.
+
+For view and explanation of cleaned data process visit `src\Clean_Data_Explanation.ipynb`
+For view and explanation of the raw data visit `src\Raw_Data_Explanation.ipynb`
