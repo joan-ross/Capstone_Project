@@ -1,0 +1,14 @@
+*.log
+
+#virtual enviroment files
+env/
+venv/
+
+#jupyter notebook
+*.ipynb_checkpoints
+/.ipynb_checkpoints
+
+# IDEs and editor specific files
+.vscode/
+.idea/
+
