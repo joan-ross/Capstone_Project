@@ -4,6 +4,6 @@ ipykernel
 ipython
 json5
 jupyter
-matplotlib-inline
+matplotlib
 numpy
 pandas
